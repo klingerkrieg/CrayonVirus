@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\CrayonVirus assets\Scripts\Notes.cs">
+    <Files>
+      <File FileName="Assets\CrayonVirus assets\Scripts\Notes.cs" Line="1" Column="1" />
+      <File FileName="Assets\CrayonVirus assets\Scripts\CollisionScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\CrayonVirus assets\Scripts\Player.cs" Line="1" Column="1" />
+      <File FileName="Assets\CrayonVirus assets\Scripts\CameraFollow.cs" Line="1" Column="1" />
+      <File FileName="Assets\CrayonVirus assets\Scripts\OutOfScene.cs" Line="1" Column="1" />
+      <File FileName="Assets\CrayonVirus assets\Scripts\Credits.cs" Line="1" Column="1" />
+      <File FileName="Assets\CrayonVirus assets\Scripts\GameOver.cs" Line="1" Column="1" />
+      <File FileName="Assets\CrayonVirus assets\Scripts\Menu.cs" Line="1" Column="1" />
+      <File FileName="Assets\CrayonVirus assets\Scripts\Movement.cs" Line="1" Column="1" />
+      <File FileName="Assets\CrayonVirus assets\Scripts\Itens.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
